@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "BoletinEstudantil",
+            "request": "launch",
+            "mainClass": "BoletinEstudantil",
+            "projectName": "java_804b8f9e"
+        },
+        {
+            "type": "java",
+            "name": "Classes",
+            "request": "launch",
+            "mainClass": "Classes",
+            "projectName": "java_804b8f9e"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
