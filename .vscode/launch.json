@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "relacionais",
+            "request": "launch",
+            "mainClass": "edu.rodrigo.primeiroModel.operadores.relacionais",
+            "projectName": "java_804b8f9e"
+        },
+        {
+            "type": "java",
             "name": "BoletinEstudantil",
             "request": "launch",
             "mainClass": "BoletinEstudantil",
