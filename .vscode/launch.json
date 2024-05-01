@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Usuario",
+            "request": "launch",
+            "mainClass": "edu.rodrigo.primeiroModel.metodos.Usuario",
+            "projectName": "java_804b8f9e"
+        },
+        {
+            "type": "java",
             "name": "logico",
             "request": "launch",
             "mainClass": "edu.rodrigo.primeiroModel.operadores.logico",
