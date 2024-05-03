@@ -1,0 +1,7 @@
+{
+    "java.project.sourcePaths": [
+        "docs/1.Módulo/terminal",
+        "classes/src",
+        "condicionais"
+    ]
+}

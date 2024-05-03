@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "composta",
+            "request": "launch",
+            "mainClass": "composta",
+            "projectName": "java_804b8f9e"
+        },
+        {
+            "type": "java",
+            "name": "ScannerExample",
+            "request": "launch",
+            "mainClass": "ScannerExample",
+            "projectName": "java_804b8f9e"
+        },
+        {
+            "type": "java",
             "name": "Usuario",
             "request": "launch",
             "mainClass": "edu.rodrigo.primeiroModel.metodos.Usuario",
