@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "EnquantoWhile",
+            "request": "launch",
+            "mainClass": "EnquantoWhile",
+            "projectName": "java_804b8f9e"
+        },
+        {
+            "type": "java",
             "name": "ExemploBreak",
             "request": "launch",
             "mainClass": "ExemploBreak",

@@ -91,3 +91,9 @@ https://tecnologiaeinformacao.netlify.app/java/break-e-continue
 O Laço While - Enquanto
 
 determina que enquanto uma condição for válida, o bloco de código será executado. O lao while testa a condição antes de executar o código, logo, caso a condição seja inválida no primeiro teste o bloco nem será executado.
+
+## Faça enquanto / Do While
+
+O laço do / while - Faça enquanto
+
+Assim como o laço while, considera que enquanto uma determinada condição for válida o bloco de código será executado. Entretando do / while testa a condição apos executar o código, sendo assim, mesmo que a condição seja considerada invalida no primeiro teste o bloco de código será executado pelo menos uma vez.
