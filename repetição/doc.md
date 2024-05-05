@@ -83,3 +83,11 @@ System.out.println("Contagem finalizada... :/");
 // Documentacão
 
 https://tecnologiaeinformacao.netlify.app/java/break-e-continue
+
+---
+
+## Enquanto / While
+
+O Laço While - Enquanto
+
+determina que enquanto uma condição for válida, o bloco de código será executado. O lao while testa a condição antes de executar o código, logo, caso a condição seja inválida no primeiro teste o bloco nem será executado.
