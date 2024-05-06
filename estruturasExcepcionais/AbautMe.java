@@ -22,7 +22,7 @@ public class AbautMe {
         System.out.println("Olá, me chamo " + nome + " " + sobrenome);
         System.out.println("Tenho " + idade + " anos.");
         System.out.println("Minha altura é: " + altura + " cm.");
-
+        // INICIANDO try
     }
 
 }
