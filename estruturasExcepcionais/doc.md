@@ -13,3 +13,7 @@ _Quando uxamos exceções usamos um fluxo inesperado da nossa aplicação por ex
 - Querer dividir um valor por zero, querer abrir um arquivo que não existe, abrir uma conexão de banco com usuário ou senha inválida. Todos estes cenários e os demais não são erros mais sim fluxos não previsíveis pela aplicação.
 
 É ai que entra mais uma responsabilidade do desenvolvedor, prever situações iguais a estas e realizar o que chamamos de Tratamentos de Exceções
+
+_Hirarquia das exceções_
+
+- A linguagem Java dispõe de uma variedade de classes que representam exceções, e estas classes são organizadas em uma hierarquida denonimada de _Checked and Unchecked Exceptions_ ou Exceções Checadas e não checadas

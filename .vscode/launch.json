@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "exemploUso",
+            "request": "launch",
+            "mainClass": "exemploUso",
+            "projectName": "java_804b8f9e"
+        },
+        {
+            "type": "java",
+            "name": "AbautMe",
+            "request": "launch",
+            "mainClass": "AbautMe",
+            "projectName": "java_804b8f9e"
+        },
+        {
+            "type": "java",
             "name": "FacaEnquantoDoWhile",
             "request": "launch",
             "mainClass": "FacaEnquantoDoWhile",
