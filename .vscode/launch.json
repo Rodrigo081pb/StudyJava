@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "formatadorTexto",
+            "request": "launch",
+            "mainClass": "exemploFormatText.formatadorTexto",
+            "projectName": "java_804b8f9e"
+        },
+        {
+            "type": "java",
             "name": "exemploUso",
             "request": "launch",
             "mainClass": "exemploUso",

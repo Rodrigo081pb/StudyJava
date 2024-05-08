@@ -17,3 +17,7 @@ _Quando uxamos exceções usamos um fluxo inesperado da nossa aplicação por ex
 _Hirarquia das exceções_
 
 - A linguagem Java dispõe de uma variedade de classes que representam exceções, e estas classes são organizadas em uma hierarquida denonimada de _Checked and Unchecked Exceptions_ ou Exceções Checadas e não checadas
+
+_Documentação De tratamento de Exceções :_
+
+-https://www.devmedia.com.br/tratando-excecoes-em-java/25514-
