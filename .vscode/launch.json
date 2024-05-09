@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ExemploLetraAcomThrows",
+            "request": "launch",
+            "mainClass": "exemploFormatText.utilizandoThrows.ExemploLetraAcomThrows",
+            "projectName": "java_804b8f9e"
+        },
+        {
+            "type": "java",
             "name": "formatadorTexto",
             "request": "launch",
             "mainClass": "exemploFormatText.formatadorTexto",
