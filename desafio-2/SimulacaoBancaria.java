@@ -1,5 +1,14 @@
 import java.util.Scanner;
 
+    // Loop infinito para manter o programa em execução até que o usuário decida
+    // sair
+    // TODO: Implemente as condições necessárias para avaliaa a opção escolhida:
+    // Dica: Utilze o switch/case para o programa realizar as operações escolhidas
+    // pelo usuário.
+    // Exibe mensagem de opção inválida se o usuário escolher uma opção inválida:
+
+
+
 public class SimulacaoBancaria {
 
     public static void main(String[] args) {
