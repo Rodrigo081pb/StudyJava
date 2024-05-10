@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SimulacaoBancaria",
+            "request": "launch",
+            "mainClass": "SimulacaoBancaria",
+            "projectName": "java_804b8f9e"
+        },
+        {
+            "type": "java",
+            "name": "desafio",
+            "request": "launch",
+            "mainClass": "desafio",
+            "projectName": "java_804b8f9e"
+        },
+        {
+            "type": "java",
+            "name": "Contador",
+            "request": "launch",
+            "mainClass": "Contador",
+            "projectName": "java_804b8f9e"
+        },
+        {
+            "type": "java",
             "name": "AnalistaCandidatos",
             "request": "launch",
             "mainClass": "desafiosjava.AnalistaCandidatos",

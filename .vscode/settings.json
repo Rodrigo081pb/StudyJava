@@ -1,10 +1,12 @@
 {
     "java.project.sourcePaths": [
         "repetição",
+        "exercicio-1",
         "estruturasExcepcionais",
         "docs/1.Módulo/terminal",
+        "desafios-java",
         "condicionais",
         "classes/src",
-        "desafios-java"
+        "desafio-2"
     ]
 }
