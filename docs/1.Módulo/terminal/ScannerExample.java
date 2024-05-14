@@ -5,6 +5,7 @@ public class ScannerExample {
 
     public static void main(String[] args) {
         // Criando o objeto scanner
+        @SuppressWarnings("resource")
         Scanner scanner = new Scanner(System.in).useLocale(Locale.US);
 
         System.out.println("Digite seu nome:");

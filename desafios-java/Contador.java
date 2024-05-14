@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 public class Contador {
     public static void main(String[] args) {
+        @SuppressWarnings({ "resource", "unused" })
         Scanner scanner = new Scanner(System.in);
 
         int parametroUm = Integer.parseInt(args[0]);

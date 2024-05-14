@@ -1,12 +1,13 @@
 {
     "java.project.sourcePaths": [
-        "repetição",
-        "exercicio-1",
-        "estruturasExcepcionais",
-        "docs/1.Módulo/terminal",
-        "desafios-java",
+        "classes\\src",
         "condicionais",
-        "classes/src",
-        "desafio-2"
-    ]
+        "desafio-2",
+        "desafios-java",
+        "docs\\1.Módulo\\terminal",
+        "estruturasExcepcionais",
+        "repetição",
+        "objects\\classes\\StudentObject"
+    ],
+    "java.project.referencedLibraries": []
 }

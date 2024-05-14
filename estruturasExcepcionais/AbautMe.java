@@ -10,6 +10,7 @@ public class AbautMe {
             // Iniciando tratamento
             try {
                 // Criando o objeto scanner
+                @SuppressWarnings("resource")
                 Scanner scanner = new Scanner(System.in).useLocale(Locale.US);
 
                 System.out.println("Digite seu nome:");

@@ -2,6 +2,7 @@ package exemploFormatText.utilizandoThrows;
 
 public class formatTextNew {
 
+    @SuppressWarnings("null")
     private static void aumentarLetras() throws Exception // lançando exceção
     {
         String frase = null;

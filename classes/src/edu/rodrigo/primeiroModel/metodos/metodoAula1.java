@@ -23,6 +23,7 @@ public class metodoAula1 {
 
     // Metodo privado
 
+    @SuppressWarnings("unused")
     private void metodoPrivado() {
     }
 
