@@ -6,8 +6,11 @@
         "desafios-java",
         "docs\\1.Módulo\\terminal",
         "estruturasExcepcionais",
+        "objects\\classes\\StudentObject",
         "repetição",
-        "objects\\classes\\StudentObject"
+        "classes",
+        "objects\\classes\\AplicacaoConcessionariaExemplo\\Servicos",
+        "objects\\classes\\modificadores"
     ],
     "java.project.referencedLibraries": []
 }
