@@ -10,7 +10,9 @@
         "repetição",
         "classes",
         "objects\\classes\\AplicacaoConcessionariaExemplo\\Servicos",
-        "objects\\classes\\modificadores"
+        "objects\\classes\\modificadores",
+        "objects",
+        "GetterAndSetters\\Escola"
     ],
     "java.project.referencedLibraries": []
 }

@@ -1,4 +1,4 @@
-package lanchonete;
+package lanchonete.cozinha;
 
 public class Cozinheiro {
     // Default
