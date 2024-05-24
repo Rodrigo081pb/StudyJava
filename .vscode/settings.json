@@ -12,7 +12,8 @@
         "objects\\classes\\AplicacaoConcessionariaExemplo\\Servicos",
         "objects\\classes\\StudentObject",
         "repetição",
-        "GetterAndSetters\\partExemple2"
+        "GetterAndSetters\\partExemple2",
+        "construtores\\Exemplo1"
     ],
     "java.project.referencedLibraries": []
 }
