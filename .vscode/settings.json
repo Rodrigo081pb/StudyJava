@@ -1,18 +1,18 @@
 {
     "java.project.sourcePaths": [
+        "classes",
         "classes\\src",
         "condicionais",
         "desafio-2",
         "desafios-java",
         "docs\\1.Módulo\\terminal",
         "estruturasExcepcionais",
+        "GetterAndSetters\\Escola",
+        "objects",
+        "objects\\classes\\AplicacaoConcessionariaExemplo\\Servicos",
         "objects\\classes\\StudentObject",
         "repetição",
-        "classes",
-        "objects\\classes\\AplicacaoConcessionariaExemplo\\Servicos",
-        "objects\\classes\\modificadores",
-        "objects",
-        "GetterAndSetters\\Escola"
+        "GetterAndSetters\\partExemple2"
     ],
     "java.project.referencedLibraries": []
 }

@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Escola",
+            "request": "launch",
+            "mainClass": "Escola",
+            "projectName": "java_804b8f9e"
+        },
+        {
+            "type": "java",
             "name": "SimulacaoBancaria",
             "request": "launch",
             "mainClass": "SimulacaoBancaria",
