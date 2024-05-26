@@ -1,12 +1,10 @@
-public class Cliente {
+public class ClienteConcessionaria {
 
     private String nome;
     private String cpf;
     private String endereco;
 
-    System.out.println("Hello World!");
-
-    public Cliente(String cpf, String nome, String endereco) {
+    public ClienteConcessionaria(String cpf, String nome, String endereco) {
         this.cpf = cpf;
         this.nome = nome;
         this.endereco = endereco;

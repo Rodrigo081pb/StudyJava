@@ -1,7 +1,7 @@
 public class CadastroSeguro {
     public static void main(String[] args) {
         // Corrigido: Ordem dos parâmetros e adicionando o parametro endereco
-        Cliente rodrigo = new Cliente("99999999999", "Rodrigo", "InicialEndereco");
+        ClienteConcessionaria rodrigo = new ClienteConcessionaria("99999999999", "Rodrigo", "InicialEndereco");
 
         rodrigo.setEndereco("Rua das avenidas");
 

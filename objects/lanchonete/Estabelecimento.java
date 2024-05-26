@@ -1,5 +1,8 @@
 package lanchonete;
 
+import lanchonete.cozinha.Almoxarife;
+import lanchonete.cozinha.Cozinheiro;
+
 public class Estabelecimento {
     public static void main(String[] args) {
         Cozinheiro cozinheiro = new Cozinheiro();
@@ -37,23 +40,6 @@ public class Estabelecimento {
         // Ação que somente o seu pacote de cozinha precisa
 
         atendente.trocarGas();
-
-        Cliente cliente = new Cliente();
-
-        cliente.escolherLanche();
-        cliente.fazerPedido();
-        cliente.pagarConta();
-
-        // Não deveria, mas o estabelecimento ainda não definiu normas de atendemento
-
-        cliente.pegarPedidoBalcao();
-
-        // Esta ação é muito sigilosa, qual tal serviço não pode ver
-
-        cliente.consultarSaldoAplicativo();
-
-        // Já pensou os clientes ouvindo que o gás de cozinha
-
         cozinheiro.PedirParatrocarGas(almoxarife);
     }
 }

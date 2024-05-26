@@ -1,5 +1,7 @@
 package lanchonete.cozinha;
 
+import lanchonete.Atendente;
+
 public class Cozinheiro {
     // Default
     public void adicionarLancheNoBalcao() {

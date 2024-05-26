@@ -45,11 +45,10 @@ public class exemploUso {
             String email = scanner.nextLine(); // Lê o email fornecido pelo usuário
 
             // Cria um objeto cliente com os dados fornecidos pelo usuário
-            Cliente cliente = new Cliente(nome, sobrenome, numero, email);
 
             // Simula o salvamento dos dados do cliente em um banco de dados
             System.out.println("Cliente registrado com sucesso:");
-            System.out.println(cliente); // Imprime os detalhes do cliente registrado
+            // Imprime os detalhes do cliente registrado
         } catch (Exception e) { // Captura qualquer exceção que possa ocorrer dentro do bloco try
             System.out.println("Ocorreu um erro ao registrar o cliente: " + e.getMessage()); // Exibe uma mensagem de
                                                                                              // erro
