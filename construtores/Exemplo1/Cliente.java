@@ -4,6 +4,8 @@ public class Cliente {
     private String cpf;
     private String endereco;
 
+    System.out.println("Hello World!");
+
     public Cliente(String cpf, String nome, String endereco) {
         this.cpf = cpf;
         this.nome = nome;
