@@ -13,7 +13,10 @@
         "objects\\classes\\StudentObject",
         "repetição",
         "GetterAndSetters\\partExemple2",
-        "construtores\\Exemplo1"
+        "construtores\\Exemplo1",
+        "construtores\\POO\\usuario",
+        "construtores\\POO",
+        "construtores"
     ],
     "java.project.referencedLibraries": []
 }
