@@ -12,3 +12,9 @@ Usamos o Enum quando o nosso modelo de negócio contém objetos de mesmo context
 Ao carregar a aplicação já possuímos um leque de objetos previamente estruturados para ser reutilizados durante a aplicação.
 
 Exemplo dentro da pasta
+
+    Exemplo abaixo Grau de escolaridade: Analfabeto, Fundamental, Médio, Superior
+    ____________________________
+
+    Estado Civil: Solteiro, Casado, Divorciado, Viúvo.
+    ____________________________

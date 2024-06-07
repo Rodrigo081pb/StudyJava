@@ -5,5 +5,9 @@ public class SystemIBGE {
         for (EstadoBrasileiro e : EstadoBrasileiro.values()) {
             System.out.println(e.getSigla() + "-" + e.getNome());
         }
+
+        EstadoBrasileiro eb = EstadoBrasileiro.PERNAMBUCO;
+
+        System.out.println(eb.getNome());
     }
 }
