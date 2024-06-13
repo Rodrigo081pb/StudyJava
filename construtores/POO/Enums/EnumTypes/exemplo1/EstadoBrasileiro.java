@@ -22,7 +22,7 @@ public enum EstadoBrasileiro {
     }
 
     public String getSigla() {
-        return nome;
+        return sigla;
     }
 
     public String getNome() {
