@@ -16,7 +16,10 @@
         "construtores\\Exemplo1",
         "construtores\\POO\\usuario",
         "construtores\\POO",
-        "construtores"
+        "construtores",
+        "DesafioIphone\\Servicos",
+        "DesafioIphone\\Iphone",
+        "DesafioIphone\\Funcionalidades"
     ],
     "java.project.referencedLibraries": []
 }
