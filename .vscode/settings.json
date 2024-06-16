@@ -20,7 +20,8 @@
         "DesafioIphone\\Servicos",
         "DesafioIphone\\Iphone",
         "DesafioIphone\\Funcionalidades",
-        "Collections\\generics"
+        "Collections\\generics",
+        "Collections\\ComparableXComparador"
     ],
     "java.project.referencedLibraries": []
 }
