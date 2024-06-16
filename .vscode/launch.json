@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Apple",
+            "request": "launch",
+            "mainClass": "Apple",
+            "projectName": "java_804b8f9e"
+        },
+        {
+            "type": "java",
             "name": "Escola",
             "request": "launch",
             "mainClass": "Escola",

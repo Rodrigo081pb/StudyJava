@@ -19,7 +19,8 @@
         "construtores",
         "DesafioIphone\\Servicos",
         "DesafioIphone\\Iphone",
-        "DesafioIphone\\Funcionalidades"
+        "DesafioIphone\\Funcionalidades",
+        "Collections\\generics"
     ],
     "java.project.referencedLibraries": []
 }
