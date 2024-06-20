@@ -22,7 +22,8 @@
         "DesafioIphone\\Funcionalidades",
         "Collections\\generics",
         "Collections\\ComparableXComparador",
-        "Collections\\List\\OperacoesBasicas"
+        "Collections\\List\\OperacoesBasicas",
+        "Collections\\List\\PesquisaEmList"
     ],
     "java.project.referencedLibraries": []
 }
