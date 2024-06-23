@@ -24,7 +24,8 @@
         "Collections\\ComparableXComparador",
         "Collections\\List\\OperacoesBasicas",
         "Collections\\List\\PesquisaEmList",
-        "Collections\\List\\OrdenacaoList"
+        "Collections\\List\\OrdenacaoList",
+        "Collections\\Interface\\OperacoesBasicasSet"
     ],
     "java.project.referencedLibraries": []
 }
