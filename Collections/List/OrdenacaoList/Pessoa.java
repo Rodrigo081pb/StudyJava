@@ -1,4 +1,14 @@
-public class Pessoa {
+// O que esta entrew <> é chamado de generics
+
+import java.util.Comparator;
+
+public class Pessoa implements Comparable<Pessoa> {
+
+    @Override
+    public int compareTo(Pessoa p) {
+        return Integer.compare(idade, p.getIdade());
+    }
+
     // Atributos
 
     private String nome;
@@ -37,4 +47,11 @@ public class Pessoa {
                 '}';
     }
 
+}
+
+class ComparatorPorAltura implements Comparator<Pessoa> {
+    @Override
+    public int compare(Pessoa p1, Pessoa p2) {
+        return Double.compare(p1.getAltura(), p2.getAltura());
+    }
 }
