@@ -34,6 +34,8 @@ public class OrdenacaoPessoa {
         ordenacaoPessoa.adicionarPessoa("Kaio Juam", 18, 1.72);
         ordenacaoPessoa.adicionarPessoa("Helena Jade", 18, 1.72);
 
+        System.out.println(ordenacaoPessoa.pessoaList);
+
         System.out.println(ordenacaoPessoa.ordenarPorIdade());
         System.out.println(ordenacaoPessoa.ordenarPorAltura());
     }

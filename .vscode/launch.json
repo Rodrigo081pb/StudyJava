@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "OrdenacaoPessoa",
+            "request": "launch",
+            "mainClass": "OrdenacaoPessoa",
+            "projectName": "java_804b8f9e"
+        },
+        {
+            "type": "java",
             "name": "Apple",
             "request": "launch",
             "mainClass": "Apple",
