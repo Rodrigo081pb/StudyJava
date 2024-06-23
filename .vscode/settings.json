@@ -25,7 +25,8 @@
         "Collections\\List\\OperacoesBasicas",
         "Collections\\List\\PesquisaEmList",
         "Collections\\List\\OrdenacaoList",
-        "Collections\\Interface\\OperacoesBasicasSet"
+        "Collections\\Interface\\OperacoesBasicasSet",
+        "Collections\\Interface\\PesquisaSet"
     ],
     "java.project.referencedLibraries": []
 }
