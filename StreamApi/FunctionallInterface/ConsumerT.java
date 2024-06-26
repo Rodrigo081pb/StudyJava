@@ -15,6 +15,10 @@ public class ConsumerT {
         };
 
         // Usar o consumer para imprimir cada número no Stream
-        numeros.stream().forEach(imprimirNumeroPar);
+        numeros.stream().forEach(np -> {
+            if (np % 2 == 0) {
+                System.out.println(np);
+            }
+        });
     }
 }
