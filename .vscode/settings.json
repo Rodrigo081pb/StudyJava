@@ -26,7 +26,8 @@
         "Collections\\List\\PesquisaEmList",
         "Collections\\List\\OrdenacaoList",
         "Collections\\Interface\\OperacoesBasicasSet",
-        "Collections\\Interface\\PesquisaSet"
+        "Collections\\Interface\\PesquisaSet",
+        "StreamApi\\FunctionallInterface"
     ],
     "java.project.referencedLibraries": []
 }
