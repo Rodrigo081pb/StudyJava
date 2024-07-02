@@ -5,7 +5,12 @@ import java.util.stream.Stream;
 
 /* 
     Representa uma operação que não aceita nenhum argumento e retorna um resultado do tipo T.
+    
+    totalmente diferente do consumer T que aceita argumento e não retorna um resultado do tipo T
+
     É comumente usada para criar ou fornecer novos objetos de um determinado tipo
+
+    Abaixo o Supplier
 */
 
 public class SupplierExemple {
@@ -21,6 +26,7 @@ public class SupplierExemple {
 
         // Imprimir as saudações geradas
         listaSaudacoes.forEach(s -> System.out.println(s));
+        // acima ele esta percorrendo e imprimindo cada item da lista pra.
 
     }
 }
