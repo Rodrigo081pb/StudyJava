@@ -15,10 +15,8 @@ public class ConsumerT {
         };
 
         // Usar o consumer para imprimir cada número no Stream
-        numeros.stream().forEach(np -> {
-            if (np % 2 == 0) {
-                System.out.println(np);
-            }
-        });
+        numeros.stream()
+                .filter(n -> n % 2 == 0)
+                .forEach(System.out::println);
     }
 }

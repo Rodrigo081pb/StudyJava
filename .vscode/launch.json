@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "FunctionExemple",
+            "request": "launch",
+            "mainClass": "FunctionExemple",
+            "projectName": "java_804b8f9e"
+        },
+        {
+            "type": "java",
             "name": "OrdenacaoPessoa",
             "request": "launch",
             "mainClass": "OrdenacaoPessoa",
