@@ -27,7 +27,8 @@
         "Collections\\List\\OrdenacaoList",
         "Collections\\Interface\\OperacoesBasicasSet",
         "Collections\\Interface\\PesquisaSet",
-        "StreamApi\\FunctionallInterface"
+        "StreamApi\\FunctionallInterface",
+        "BancoDigital"
     ],
     "java.project.referencedLibraries": []
 }
