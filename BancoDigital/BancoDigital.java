@@ -87,6 +87,7 @@ class Banco {
         return null;
     }
 
+    /* Função de depósito */
     public void depositar(String numero, double valor) {
         Conta conta = encontrarConta(numero);
         if (conta != null) {
@@ -96,6 +97,7 @@ class Banco {
         }
     }
 
+    /* Função de Saque */
     public void sacar(String numero, double valor) {
         Conta conta = encontrarConta(numero);
         if (conta != null) {
@@ -105,6 +107,7 @@ class Banco {
         }
     }
 
+    /* Função de Exibição de Saldo */
     public void exibirSaldo(String numero) {
         Conta conta = encontrarConta(numero);
         if (conta != null) {
